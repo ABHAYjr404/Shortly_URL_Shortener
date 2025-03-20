@@ -43,7 +43,7 @@ Copy URL: Click the "Copy" button to copy the shortened URL to your clipboard.
 Responsive UI: The interface adjusts automatically based on your device's screen size.
 
 ## Project Structure
-   ``
+   ```
    Shortly_URL_Shortener/
    ├── public/                # Static assets (images, icons, etc.)
    ├── components/            # Reusable React components
@@ -58,7 +58,7 @@ Responsive UI: The interface adjusts automatically based on your device's screen
    ├── package.json           # Project dependencies and scripts
    ├── tsconfig.json          # TypeScript configuration
    └── README.md              # Project documentation (this file)
-   ``
+   ```
 
 ## Screenshot
 
